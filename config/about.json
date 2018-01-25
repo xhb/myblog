@@ -1,10 +1,10 @@
 {
-  "FirstLine": "第一行文本",
-  "SecondLine": "第二行文本",
-  "PhotoPath": "/images/zhr.jpg",
-  "ThirdLine": "第三行文本",
-  "Profile": "个人简介",
-  "Wechat": "微信号",
-  "QrcodePath": "",
-  "Email": "Email地址"
+  "FirstLine": "谢海彬",
+  "SecondLine": "xier",
+  "PhotoPath": "/images/thehill_logo_black (1).jpg",
+  "ThirdLine": "react全栈工程师|人工智能量化投资|软件自动化工程师",
+  "Profile": "个人简介:\r\n2013年涉足投资市场，长期从事市场定量研究工作。\r\n2014年开始系统学习股票、期货、外汇等交易，开发过多种交易策略。\r\n2015年开始研究将人工智能技术与量化组合投资技术，结合对市场的统计分析心得，研发出自己的投资组合分析方法，并开发成应用程序。\r\n开发的程序化模型年平均收益率远高于市场平均水平。\r\n",
+  "Wechat": "letuspapa",
+  "QrcodePath": "/images/qrcode.png",
+  "Email": "742694959@qq.com"
 }

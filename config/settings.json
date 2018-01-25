@@ -1,18 +1,18 @@
 {
-  "SiteName": "iBlog",
-  "SiteDomain": "www.example.com",
-  "RecordNo": "浙ICP备XXX号",
-  "LogoPath": "/images/zhr.jpg",
-  "PageSize": "10",
+  "SiteName": "智量效应",
+  "SiteDomain": "www.81kb.com",
+  "RecordNo": "粤ICP备16053441号-1",
+  "LogoPath": "/images/thehill_logo_black.jpg",
+  "PageSize": "0",
   "ExpandMenu": "false",
   "CacheExpired": "300",
-  "TranslateKey": "",
+  "TranslateKey": "YKzZw2CYzlQKNKkOgG4S",
   "EnableStatistics": "true",
-  "StatisticsId": "",
+  "StatisticsId": "9a00a3ca87b0640312325ff5feda5f48",
   "EnableShare": "true",
-  "JiaThisId": "",
+  "JiaThisId": "2154796",
   "ShowComments": "true",
   "ShowGuestbook": "true",
-  "ChangyanId": "",
-  "ChangyanConf": ""
+  "ChangyanId": "cytpkXO9D",
+  "ChangyanConf": "prod_ea6e51a563aa1856c656c90b3cd0e97e"
 }
