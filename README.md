@@ -1,17 +1,3 @@
-# iBlog2
-基于 Node.js 的个人开源博客系统，采用响应式布局，支持移动设备直接访问，功能全面，美观大方。  
-_不仅仅是博客，更是 Demo_，适合新人入门学习的完整项目。  
-（基于 ASP.NET 的版本请点击[这里](https://github.com/eshengsky/iBlog/)）
-
-## 在线实例
-个人博客 [http://www.skysun.name/](http://www.skysun.name/)
-
-## 分支说明
-当前项目分为 [master](https://github.com/eshengsky/iBlog2/tree/master) 分支和 [Jade-template](https://github.com/eshengsky/iBlog2/tree/Jade-template) 分支，唯一的区别在于 master 分支使用的是我自己写的 [Saker](https://github.com/eshengsky/saker) 模板引擎，Jade-template 分支使用的 [Jade](https://pugjs.org/) 模板引擎。
-
-## [Wiki](https://github.com/eshengsky/iBlog2/wiki)
-整理了 iBlog2 中涉及 Node.js 及部分前端技术的基本功能与知识点，适合新手学习、备查。  
-
 ## 功能模块
 #### 博客
 * 文章列表页  
@@ -109,28 +95,3 @@ $ npm install -g pm2
 $ pm2 start ./bin/www
 ```
 
-## 贡献者们
-感谢给 iBlog2 项目贡献代码的朋友，感谢他们的支持，详情[点击这里](https://github.com/eshengsky/iBlog2/graphs/contributors)。
-
-## 许可协议
-The MIT License (MIT)
-
-Copyright (c) 2016 Sky
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
